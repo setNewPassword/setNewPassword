@@ -35,16 +35,10 @@ When I'm not coding, you can find me geeking about some DIY.
 ##  My GitHub Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px>
 
  <div>
-   <img align="center" src="https://github-readme-stats.vercel.app/api?username=setNewPassword&show_icons=true&hide_border=true&theme=default&rank_icon=github" alt="Dmitry's LangStat" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=setNewPassword&langs_count=4&show_icons=true&locale=en&layout=compact&theme=light" alt="Dmitry's language" height="192px"  width="500px"/>
+   <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=setNewPassword&show_icons=true"  alt="Dmitry's profile statistics" width="500px"/>
+<br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=setNewPassword&langs_count=4&show_icons=true&locale=en&layout=compact&theme=light" alt="Dmitry's language statistics" height="192px"  width="500px"/>
 </div>
-
-**Expand to view**
-<details>
-  <summary><b>⚡ GitHub Profile Stat</b></summary>
-  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=setNewPassword&show_icons=true"  alt="Dmitry's Profile Stat"/>
-</details>
-
 
 <!-- GitHub section: END -->
 
@@ -70,6 +64,7 @@ When I'm not coding, you can find me geeking about some DIY.
 <a href="https://www.postgresql.org" target="_blank">
     <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
   </a>
+<br>
 <a href="https://ubuntu.com" target="_blank">
     <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu">
   </a>
