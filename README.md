@@ -77,5 +77,11 @@ When I'm not coding, you can find me geeking about some DIY.
 <a href="https://www.atlassian.com/software/jira" target="_blank">
     <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" alt="Jira">
   </a>
+<a href="https://www.rabbitmq.com" target="_blank">
+    <img src="https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" alt="RabbitMQ">
+  </a>
+<a href="https://nginx.org" target="_blank">
+    <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx">
+  </a>
 
 </p>
