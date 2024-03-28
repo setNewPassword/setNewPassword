@@ -6,7 +6,7 @@
 
 ---
 ✨ I'm a backend developer and robotics enthusiast 🤖
-When I'm not coding, you can find me geeking about some DIY.
+When I'm not coding, you can find me geeking about some [DIY](https://t.me/guydoingstuff).
 
 - 🔭 I’m currently working on [Media Sharing Bot](https://github.com/setNewPassword/media-sharing-bot)
 
